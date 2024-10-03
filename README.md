@@ -1,4 +1,4 @@
-LearniFy E-Learning Platform
+# LearniFy E-Learning Platform
 
 Overview:
 LearniFy is an e-learning platform I developed using HTML, CSS, JavaScript, Bootstrap, JSP, Servlets, and MySQL. As the sole developer, I handled requirements, design, backend, database, and testing. LearniFy offers a course catalog, interactive lessons, user authentication, progress tracking, and responsive design.
